@@ -1,13 +1,17 @@
 # DS Mini Project
 
-This is a simple data science project for my Data Science 1 course.
+This is a small reproducible data science project for the Data Science 1 course.
 
-## Structure
-- `data/` — contains the raw dataset
-- `analysis.ipynb` — basic analysis notebook
-- `requirements.txt` — environment dependencies
+## Project Structure
+- data/raw_data.csv → raw dataset
+- analysis.ipynb → notebook with analysis
+- requirements.txt → Python dependencies
+- gdp_plot.png → automatically generated chart
 
-## How to reproduce
-1. Clone this repo
-2. Install requirements
-3. Run the notebook
+## How to Reproduce
+1. Clone the repo:
+```bash
+git clone https://github.com/constantinosevag-rgb/ds-mini-project.git
+cd ds-mini-project
+
+
