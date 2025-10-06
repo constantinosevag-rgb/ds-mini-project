@@ -1,3 +1,6 @@
+## Author
+Konstantinos Evagorou
+
 # DS Mini Project
 
 This is a small reproducible data science project for the Data Science 1 course.
